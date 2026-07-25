@@ -63,12 +63,3 @@ git clone https://github.com/lisaac/luci-lib-docker.git package/luci-lib-docker
 
 # OpenClash
 git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
-
-# ttyd 网页终端
-git clone https://github.com/lisaac/luci-app-ttyd package/luci-app-ttyd
-
-# Samba4 文件共享
-git clone https://github.com/lisaac/luci-app-samba4 package/luci-app-samba4
-
-# 磁盘管理
-git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
